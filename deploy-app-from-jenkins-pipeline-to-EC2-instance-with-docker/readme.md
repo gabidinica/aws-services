@@ -87,7 +87,7 @@ sshagent(['ec2-server-key']) {
 > Suppress the SSH pop-up is: -o StrictHostKeyChecking=no
 > dockerhub-repo:1.0- replace with your docker hub repository and 1.0 is the version from the repo of the project
 
-2. 2. Commit and push the changes to GitHub.
+2. Commit and push the changes to GitHub.
 
 3. In terminal, log in to the EC2 instance and check that there are no images and containers:  
 ```bash
