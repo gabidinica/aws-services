@@ -1,8 +1,19 @@
 In this chapter, you'll find 4 projects:
-- Deploy Web Application on EC2 Instance (manually)
-- CD - Deploy Application from Jenkins Pipeline to EC2 Instance (automatically with docker)
-- CD - Deploy Application from Jenkins Pipeline on EC2 Instance (automatically with docker-compose)
-- Complete the CI/CD Pipeline (Docker-Compose, Dynamic versioning)
+## 1. Deploy Web Application on EC2 Instance (Manually)
+- Repository: [deploy-app-on-EC2-instance-manually](https://github.com/gabidinica/aws-services/tree/main/deploy-app-on-EC2-instance-manually)  
+- Description: Manual deployment of a web application on an AWS EC2 instance.
+
+## 2. CD - Deploy Application from Jenkins Pipeline to EC2 Instance (Automatically with Docker)
+- Repository: [deploy-app-from-jenkins-pipeline-to-EC2-instance-with-docker](https://github.com/gabidinica/aws-services/tree/main/deploy-app-from-jenkins-pipeline-to-EC2-instance-with-docker)  
+- Description: Automate deployment of applications from Jenkins pipeline using Docker.
+
+## 3. CD - Deploy Application from Jenkins Pipeline on EC2 Instance (Automatically with Docker-Compose)
+- Repository: [deploy-app-from-jenkins-with-docker-compose](https://github.com/gabidinica/aws-services/tree/main/deploy-app-from-jenkins-with-docker-compose)  
+- Description: Deploy applications on EC2 using Jenkins pipeline with Docker Compose.
+
+## 4. Complete the CI/CD Pipeline (Docker-Compose, Dynamic Versioning)
+- Repository: [interacting-with-aws-cli](https://github.com/gabidinica/aws-services/tree/main/interacting-with-aws-cli)  
+- Description: Full CI/CD pipeline automation including Docker Compose and dynamic versioning.
 
 ---
 
